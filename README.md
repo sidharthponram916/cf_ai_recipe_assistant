@@ -3,9 +3,6 @@
 An AI-powered recipe generator that suggests dishes based on the ingredients you have on hand.  
 Built with **Cloudflare Workers**, **Agents**, and **OpenAI GPT models**, this project demonstrates LLM integration with memory, tools, and a modern React UI.
 
-## Process
-I started with the Cloudflare Agents starter, walking through and analyzing the code to understand how it worked. From there, I tailored it to my use case by redesigning the UI with TailwindCSS and implementing GPT4o and refining the system prompt to generate recipes based on a user's given ingredients. It’s a simple project, but it taught me a lot about how Cloudflare Agents and Workers function, as well as state management with Durable Objects. 
-
 ## Features
 
 - **Ingredient-based recipes** → enter ingredients, get back creative dish ideas.
@@ -35,3 +32,7 @@ git clone https://github.com/your-username/recipe-assistant.git
 cd recipe-assistant
 npm install
 ```
+
+## Process
+
+I started with the Cloudflare Agents starter, walking through and analyzing the code to understand how it worked. From there, I tailored it to my use case by redesigning the UI with TailwindCSS and implementing GPT4o and refining the system prompt to generate recipes based on a user's given ingredients. It’s a simple project, but it taught me a lot about how Cloudflare Agents and Workers function, as well as state management with Durable Objects.
