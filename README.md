@@ -1,7 +1,5 @@
 # Cloudflare Recipe Assistant
 
-This is an AI-powered recipe generator that suggests dishes based on the ingredients you have on the table.  
-
 <img width="1470" height="799" alt="Screenshot 2025-09-25 at 6 55 09 PM" src="https://github.com/user-attachments/assets/6dae729b-16dc-47ab-b1b3-69b25c86b641" />
 
 ## Features
